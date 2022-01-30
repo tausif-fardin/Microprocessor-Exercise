@@ -3,11 +3,11 @@ General Purpose Registers:
 
 8086 CPU has 8 general purpose registers; each register has its own name:</br>
 AX - the accumulator register (divided into AH / AL):
-1. Generates shortest machine code
-2. Arithmetic, logic and data transfer
-3. One number must be in AL or AX
-4. Multiplication & Division
-5. Input & Output
+<li> Generates shortest machine code </li>                                    
+<li> Arithmetic, logic and data transfer </li>
+<li> One number must be in AL or AX </li>
+<li> Multiplication & Division </li>
+<li> Input & Output </li>
 </br>
 BX - the base address register (divided into BH / BL).</br>
 CX - the count register (divided into CH / CL):</br>
